@@ -6,10 +6,8 @@ package firstExamples;
  * @author Gary Cornell
  */
 
-public class FirstExample
-{
-   public static void main(String[] args)
-   {
+public class FirstExample {
+   public static void main(String[] args) {
       System.out.println("We will not use 'Hello, World!'");
    }
 }
