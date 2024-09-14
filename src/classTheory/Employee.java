@@ -40,4 +40,7 @@ class Employee {
       double raise = salary * byPercent / 100;
       salary += raise;
    }
+
+   // Add a method to the Employee class (what method you think an employee would need?), and show to TA for this week's tutorial mark
+
 }
