@@ -1,4 +1,4 @@
-package PullObserverModel;
+package pullObserverModel;
 
 public class ObserverPullModel implements PullObserver {
     private String news;

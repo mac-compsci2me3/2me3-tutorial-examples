@@ -1,4 +1,4 @@
-package PullObserverModel;
+package pullObserverModel;
 
 import java.util.ArrayList;
 import java.util.List;

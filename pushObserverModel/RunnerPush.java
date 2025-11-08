@@ -1,4 +1,4 @@
-package PushObserverModel;
+package pushObserverModel;
 
 public class RunnerPush {
     public static void main(String[] args) {

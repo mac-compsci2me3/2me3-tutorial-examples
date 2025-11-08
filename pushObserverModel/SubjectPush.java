@@ -1,4 +1,4 @@
-package PushObserverModel;
+package pushObserverModel;
 
 public interface SubjectPush {
     void addObserver(PushObserver observer);

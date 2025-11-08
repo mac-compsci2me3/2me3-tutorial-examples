@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public class BasicItem implements PurchaseItem {
     private String name;

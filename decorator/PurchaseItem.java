@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public interface PurchaseItem {
     double cost();

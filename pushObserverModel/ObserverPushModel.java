@@ -1,4 +1,4 @@
-package PushObserverModel;
+package pushObserverModel;
 
 public class ObserverPushModel implements PushObserver {
     private String news;

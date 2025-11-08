@@ -1,4 +1,4 @@
-package PushObserverModel;
+package pushObserverModel;
 
 import java.util.ArrayList;
 import java.util.List;

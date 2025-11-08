@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 public class Runner {
     public static void main(String[] args) {

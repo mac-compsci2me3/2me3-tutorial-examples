@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public class ConcreteDecorator implements PurchaseItem {
     private PurchaseItem item;

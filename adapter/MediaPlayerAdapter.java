@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 public class MediaPlayerAdapter implements OldMediaPlayer {
     private AdvancedMediaPlayer advancedPlayer;

@@ -1,4 +1,4 @@
-package PullObserverModel;
+package pullObserverModel;
 
 public class RunnerPull {
     public static void main(String[] args) {

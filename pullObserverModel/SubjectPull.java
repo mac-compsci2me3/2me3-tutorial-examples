@@ -1,4 +1,4 @@
-package PullObserverModel;
+package pullObserverModel;
 
 public interface SubjectPull {
     void addObserver(PullObserver observer);
